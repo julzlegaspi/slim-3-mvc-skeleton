@@ -2,3 +2,5 @@
 Simple MVC skeleton using PHP Slim 3
 
 # Installation
+
+<code>composer install</code>
